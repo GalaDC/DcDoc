@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Dc
+  baseUrl: galadc.github.io/DcDoc
   ignorePatterns:
     - private
     - templates
